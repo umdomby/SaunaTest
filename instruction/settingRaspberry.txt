@@ -1,0 +1,10 @@
+Установка Windows iot происходит через Dashboard
+
+https://docs.microsoft.com/en-us/windows/iot-core/connect-your-device/iotdashboard
+
+Коротко
+1. Устанавливаем Dashboard на компьютер
+2. Подключаем к Raspberry Pi flash (перед этим форматируем её в SD Card Formatter)
+3. Подключаем Raspberry Pi к сети кабелем
+4. В программе Dashboard во вкладке "Set up new device" устанавливаем windows IoT (через сеть).
+5. Настраиваем WiFi , в последствии работаем через WiFi
